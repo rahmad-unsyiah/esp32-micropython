@@ -3,7 +3,7 @@ from machine import PWM
 import time
 
 # Jadikan Pin G0 sebagai PWM.
-# Sementara jadikan 100% ON (atau 0% OFF)
+# Sementara jadikan 100% OFF (atau 0% ON)
 led = PWM(Pin(0), duty_u16=65535)
 
 # Infinite Loop
