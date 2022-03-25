@@ -11,7 +11,7 @@ button = Pin(2, Pin.IN)
 # Infinite loop
 while True:
     # Loop selaman S1 ditekan
-    while button.value() == 0:
+    while button.value() == 1:
         # Hidupkan LED
         led.on()
 
