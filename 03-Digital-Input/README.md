@@ -14,4 +14,4 @@ Hidupkan LED berdasarkan Pushbutton.
 1. GND ESP32 ke GND Shield
 2. 5V ESP32 ke 5V Shield
 3. G0 ESP32 ke 13 shield
-4. G1 ESP32 ke A1 shield
+4. G2 ESP32 ke A1 shield
