@@ -1,6 +1,6 @@
-# Analogi Input
+# UART
 
-Atur terang LED memakai potensiometer.
+Baca data jarak (mm) memakai sensor ultrasonic.
 
 
 ### Perangkat
